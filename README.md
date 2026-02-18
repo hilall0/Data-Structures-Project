@@ -1,2 +1,2 @@
 # Data-Structures-Project
-Coursework for Data Structures – covering fundamental data structures and algorithms.
+Comprehensive implementation of dynamic arrays and singly/doubly linked lists in C++
